@@ -1,6 +1,6 @@
 # Zomato Data Analysis using Power Bi
 
-![Designer (1)](https://github.com/user-attachments/assets/9eec790f-e238-4e1c-b8cb-e6522449f88e)
+![Designer (1)](https://github.com/user-attachments/assets/e49edbbd-f750-483b-8223-dc5178c42017)
 
 # Project Title - Zomato Data Analysis
 
@@ -40,30 +40,28 @@ Driven by the Passion for Food and an Insatiable Curiosity,  this Project seeks 
 
 # ⏳ Dataset
 
-The Zomato Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed Sheet.
-- Kindly Access and Download the Dataset via the Link provided below
-- Raw Data Link :- 
+The Zomato Dataset is a Combination of 6 Excel Files, featuring Comprehensive and Meticulously Detailed Sheets.
+- Kindly Access and Download the Datasets via the Link provided below
+- Raw Data 1 Link :- [menu.xlsx](https://github.com/user-attachments/files/16511921/menu.xlsx)
+- Raw Data 2 Link :- [food.xlsx](https://github.com/user-attachments/files/16511926/food.xlsx)
+- Raw Data 3 Link :- [orders.xlsx](https://github.com/user-attachments/files/16511927/orders.xlsx)
+- Raw Data 4 Link :- [orders_Type.xlsx](https://github.com/user-attachments/files/16511928/orders_Type.xlsx)
+- Raw Data 5 Link :- [restaurant.xlsx](https://github.com/user-attachments/files/16511929/restaurant.xlsx)
+- Raw Data 6 Link :- [users.xlsx](https://github.com/user-attachments/files/16511930/users.xlsx)
+
 ## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
 
 # Requirement
 
-- ✅ Total Employees🧑🧔🏻👩👩🏻‍💼
-- ✅ Male Employees 🧑
-- ✅ Female Employees 👩
-- ✅ Percentage of Employees with due for Promotion 💰
-- ✅ Percentage of Employees with No due for Promotion 💰
-- ✅ Active Workers 👨🏻‍💻👩🏻‍💻
-- ✅ Next Retrenchment
-- ✅ Employees with High Ratings ⭐⭐⭐
-- ✅ Employees with Low Ratings ⭐
-- ✅ Employees by Job Levels 👨🏻‍💻
-- ✅ Employees by Service Years
-- ✅ Distance from Office
-- ✅ Due for Promotion and Retrenchment by the Department 🏬
-- ✅ Total Employees with Job Satisfaction
-- ✅ Employees by Over Time
+- ✅ Total Amount 💰💲💰
+- ✅ Total Ratings ⭐
+- ✅ Total Quantity
+- ✅ Total Orders
+- ✅ Sales by City 🗺️
+- ✅ Sales by Years 📅
+
 
 # ✅ Installation : ETL Tools ✅
 
@@ -80,16 +78,22 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 # 🚀 My Project
 
-Comprehensive Analysis has been conducted on the Datasets, illustrated through a Variety of Engaging Plots📊📈. I have created 3 Sheets for this Dashboard using Power Bi. 
+Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈. 
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Amount💰, Quanity and Top Sales📈. 
 
-This Illustrates the Analysis of "Home" Sheet. 
-![Analysis 1](https://github.com/user-attachments/assets/26786657-640c-414c-bb1d-49b9f32fe6ef)
+![Dashboard](https://github.com/user-attachments/assets/8b81b498-b32b-4a94-ae37-91648b3831ad)
 
-This Illustrates the Analysis of "Action" Sheet. 
-![Analysis 2](https://github.com/user-attachments/assets/e45a335c-959c-4fe1-b9a8-5a811c619f28)
+This Illustrates the Analysis of "Amount".📍
+![Analysis 1](https://github.com/user-attachments/assets/4d98d585-72b1-48c4-80f0-f34317a405e5)
 
-This Illustrates the Analysis of "Details" Sheet.
-![Analysis 3](https://github.com/user-attachments/assets/f863cadb-19ef-4e13-a94d-930daa8eba53)
+This Illustrates the Analysis of "Quantity".📍 
+![Analysis 2](https://github.com/user-attachments/assets/94e3720e-1c46-4591-b576-0cfbe5418b08)
+
+This Illustrates the Analysis of "Top 10" Cities.📍
+![Analysis 3](https://github.com/user-attachments/assets/fc9a3ea3-badd-4c03-bae6-e46c16177d25)
+
+This Illustrates the Analysis of "Top 5" Cities.📍
+![Analysis 4](https://github.com/user-attachments/assets/031f716e-1d29-47ad-8548-0d9fc82486b8)
 
 # Author 🙎‍♀️  
 
