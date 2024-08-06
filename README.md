@@ -79,7 +79,8 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 # 🚀 My Project
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈. 
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Amount💰, Quanity and Top Sales📈. 
+
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Amount💰, Quantity and Top Sales📈. 
 
 ![Dashboard](https://github.com/user-attachments/assets/8b81b498-b32b-4a94-ae37-91648b3831ad)
 
